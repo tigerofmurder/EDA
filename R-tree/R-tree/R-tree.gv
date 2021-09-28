@@ -1,0 +1,19 @@
+digraph {
+	<__main__.Node object at 0x7f0588b01518> [label="Rect: (10, 2), (185, 200)"]
+	<__main__.Node object at 0x7f0588b010f0> [label="Rect: (10, 2), (112, 200)"]
+	<__main__.Node object at 0x7f0586921978> [label="['Point: (12 ,10, 200)', 'Point: (6 ,28, 138)']"]
+	<__main__.Node object at 0x7f0588b010f0> -> <__main__.Node object at 0x7f0586921978>
+	<__main__.Node object at 0x7f0588b01198> [label="['Point: (13 ,88, 63)', 'Point: (9 ,112, 2)']"]
+	<__main__.Node object at 0x7f0588b010f0> -> <__main__.Node object at 0x7f0588b01198>
+	<__main__.Node object at 0x7f0588b015c0> [label="['Point: (14 ,44, 100)', 'Point: (11 ,54, 135)', 'Point: (10 ,68, 186)']"]
+	<__main__.Node object at 0x7f0588b010f0> -> <__main__.Node object at 0x7f0588b015c0>
+	<__main__.Node object at 0x7f0588b01518> -> <__main__.Node object at 0x7f0588b010f0>
+	<__main__.Node object at 0x7f0588b014a8> [label="Rect: (106, 9), (185, 184)"]
+	<__main__.Node object at 0x7f0588b01320> [label="['Point: (7 ,106, 184)', 'Point: (8 ,144, 183)', 'Point: (5 ,152, 120)']"]
+	<__main__.Node object at 0x7f0588b014a8> -> <__main__.Node object at 0x7f0588b01320>
+	<__main__.Node object at 0x7f0588b01438> [label="['Point: (2 ,153, 24)', 'Point: (1 ,154, 94)', 'Point: (4 ,162, 68)']"]
+	<__main__.Node object at 0x7f0588b014a8> -> <__main__.Node object at 0x7f0588b01438>
+	<__main__.Node object at 0x7f0588b01080> [label="['Point: (0 ,174, 9)', 'Point: (3 ,185, 69)']"]
+	<__main__.Node object at 0x7f0588b014a8> -> <__main__.Node object at 0x7f0588b01080>
+	<__main__.Node object at 0x7f0588b01518> -> <__main__.Node object at 0x7f0588b014a8>
+}

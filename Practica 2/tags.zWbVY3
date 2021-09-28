@@ -1,0 +1,5 @@
+setup	sketch.js	/^function setup(){$/;"	f
+setup	sketch2.js	/^function setup(){$/;"	f
+draw	sketch2.js	/^function draw(){$/;"	f
+setup	skec2.js	/^function setup(){$/;"	f
+draw	skec2.js	/^function draw(){$/;"	f

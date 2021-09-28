@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/tigerofmurder/.cache/gnome-builder/install/practica_3/host
+app-id=
+postbuild=
+prebuild=
+default=true
